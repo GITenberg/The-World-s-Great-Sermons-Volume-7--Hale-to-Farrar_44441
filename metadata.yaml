@@ -1,0 +1,33 @@
+_repo: The-World-s-Great-Sermons-Volume-7--Hale-to-Farrar_44441
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44441-h/images/coverpage.jpg
+creator:
+  editor:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: ''
+gutenberg_issued: '2013-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons'
+- !lcc 'BV'
+tableOfContents: 'The colonization of the desert / Hale -- The miraculous stilling
+  of the storm / Magee -- The wonderful testimonies / Seiss -- The pattern of service
+  / Maclaren -- The prepared worm / Crosby -- The argument from experience / Dale
+  -- Influences of the Holy Spirit / Liddon -- Christ before Pilate: Pilate before
+  Christ / W.M. Taylor -- Liberty only in truth / John Hall -- God indwelling / Bacon
+  -- A word to the weary / Joseph Parker -- The royal bounty / McKenzie -- Work in
+  the groaning creation / Farrar.'
+title: 'The World''s Great Sermons, Volume 07: Hale to Farrar'
+url: http://www.gutenberg.org/ebooks/44441
