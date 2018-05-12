@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4071'
     url: http://www.gutenberg.org/2009/agents/4071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44441#The-World-s-Great-Sermons-Volume-7--Hale-to-Farrar
 gutenberg_issued: '2013-12-16'
 gutenberg_type: Text
 identifiers:
